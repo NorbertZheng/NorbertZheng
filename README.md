@@ -6,8 +6,8 @@ Quick Bio
 - I am currently a Neuroscience Ph.D. student working with Dr. Yunzhe Liu at Chinese Institute for Brain Research.
 - I obtained B.S. in Computer Science at Wuhan University, in Hongyi Honor College.
 
-[![Hui Zheng's github stats](https://github-readme-stats.vercel.app/api?username=fassial&count_private=true&hide=stars&theme=solarized-light)](https://github.com/anuraghazra/github-readme-stats)
-[![Hui Zheng's top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fassial&hide=Jupyter%20Notebook&&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api?username=NorbertZheng&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=prs" width="400"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorbertZheng&hide=Jupyter%20Notebook&&layout=compact"  width="400"/>
 
 <!--
 **Fassial/fassial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
