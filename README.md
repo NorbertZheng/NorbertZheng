@@ -1,6 +1,6 @@
 ### Hi there 👋 ![](https://komarev.com/ghpvc/?username=fassial)
 
-Welcome! This is Hui Zheng, Ph.D. student at PKU.
+Welcome! This is Hui(Norbert) Zheng, Ph.D. student at PKU.
 
 Quick Bio
 - I am currently a Neuroscience Ph.D. student working with Dr. Yunzhe Liu at Chinese Institute for Brain Research.
