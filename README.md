@@ -2,13 +2,6 @@
 
 Welcome! This is Hui(Norbert) Zheng, Ph.D. student at PKU.
 
-Quick Bio
-- I am currently a Neuroscience Ph.D. student working with Dr. Yunzhe Liu at Chinese Institute for Brain Research.
-- I obtained B.S. in Computer Science at Wuhan University, in Hongyi Honor College.
-
-<img src="https://github-readme-stats.vercel.app/api?username=NorbertZheng&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=prs" width="400"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorbertZheng&hide=Jupyter%20Notebook&&layout=compact"  width="400"/>
-
 <!--
 **Fassial/fassial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +16,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Quick Bio
+- I am currently a Neuroscience Ph.D. student working with Dr. Yunzhe Liu at Chinese Institute for Brain Research.
+- I obtained B.S. in Computer Science at Wuhan University, in Hongyi Honor College.
+
+<!-- GitHub Statistics -->
+<div >
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=NorbertZheng&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite&hide=prs&count_private=true" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NorbertZheng&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite&hide=Jupyter%20Notebook" />
+</div>
+
+<!-- GitHub Activity Graph -->
+<div align="center"><img src="https://activity-graph.herokuapp.com/graph?username=NorbertZheng&theme=xcode" /></div>
