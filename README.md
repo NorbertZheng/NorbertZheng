@@ -31,7 +31,10 @@ Quick Bio
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 13 July 2022 - To: 20 July 2022
+
+TeX     4 mins          ███████████████▒░░░░░░░░░   61.64 %
+Other   2 mins          █████████▓░░░░░░░░░░░░░░░   38.36 %
 ```
 
 <!--END_SECTION:waka-->
