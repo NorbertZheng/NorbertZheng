@@ -31,7 +31,7 @@ Quick Bio
 <!--START_SECTION:waka-->
 
 ```text
-From: 19 August 2022 - To: 26 August 2022
+From: 20 August 2022 - To: 27 August 2022
 
 Python     17 hrs 38 mins  █████████████████▒░░░░░░░   69.65 %
 TeX        3 hrs 55 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
