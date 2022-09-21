@@ -31,10 +31,11 @@ Quick Bio
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 September 2022 - To: 19 September 2022
+From: 13 September 2022 - To: 20 September 2022
 
-Python       10 hrs 28 mins  █████████████████████▒░░░   85.69 %
-Other        1 hr 10 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.62 %
+Python       10 hrs 2 mins   █████████████████████▓░░░   86.09 %
+Bash         50 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.24 %
+Other        46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
 ```
 
 <!--END_SECTION:waka-->
