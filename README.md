@@ -31,10 +31,9 @@ Quick Bio
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 October 2022 - To: 19 October 2022
+From: 13 October 2022 - To: 20 October 2022
 
-TeX      4 hrs 57 mins   █████████████████████████   99.95 %
-Python   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+TeX   3 hrs 11 mins   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
