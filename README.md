@@ -31,9 +31,7 @@ Quick Bio
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 October 2022 - To: 23 October 2022
-
-TeX   1 hr 6 mins     █████████████████████████   100.00 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
