@@ -31,7 +31,14 @@ Quick Bio
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 18 October 2022 - To: 25 October 2022
+
+Python         1 hr 41 mins    █████████████▓░░░░░░░░░░░   54.21 %
+YAML           49 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.60 %
+Makefile       19 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.26 %
+Git Config     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 %
+TeX            4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+OpenEdge ABL   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 %
 ```
 
 <!--END_SECTION:waka-->
