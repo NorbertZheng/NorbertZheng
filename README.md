@@ -31,14 +31,13 @@ Quick Bio
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 October 2022 - To: 29 October 2022
+From: 23 October 2022 - To: 30 October 2022
 
-Python         6 hrs 42 mins   ███████████████▓░░░░░░░░░   63.28 %
-INI            1 hr 57 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.47 %
-YAML           51 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 %
-Makefile       44 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
-Git Config     11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.82 %
-TeX            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
+Python         8 hrs 59 mins   █████████████████▒░░░░░░░   68.71 %
+INI            1 hr 57 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.97 %
+YAML           51 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.57 %
+Makefile       44 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.68 %
+Other          12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.54 %
 ```
 
 <!--END_SECTION:waka-->
