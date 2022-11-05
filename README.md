@@ -31,10 +31,12 @@ Quick Bio
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 October 2022 - To: 03 November 2022
+From: 28 October 2022 - To: 04 November 2022
 
-Python       16 hrs 15 mins  ████████████████████████░   95.74 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.22 %
+Python       18 hrs 9 mins   ███████████████████████▓░   94.96 %
+Makefile     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
 ```
 
 <!--END_SECTION:waka-->
