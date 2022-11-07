@@ -31,12 +31,14 @@ Quick Bio
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 October 2022 - To: 04 November 2022
+From: 30 October 2022 - To: 06 November 2022
 
-Python       18 hrs 9 mins   ███████████████████████▓░   94.96 %
-Makefile     16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
-Markdown     12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
-Other        12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
+Python       20 hrs 58 mins  ███████████████████████▓░   94.09 %
+Markdown     38 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
+Makefile     19 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 %
+Git Config   10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.76 %
+Bash         9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 %
 ```
 
 <!--END_SECTION:waka-->
