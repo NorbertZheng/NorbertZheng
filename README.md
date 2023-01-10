@@ -32,10 +32,10 @@ Quick Bio
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 January 2023 - To: 08 January 2023
+From: 02 January 2023 - To: 09 January 2023
 
-Python        21 hrs 54 mins  ██████████████████████░░░   87.76 %
-Other         2 hrs 24 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.63 %
+Python        19 hrs 32 mins  ██████████████████████░░░   87.71 %
+Other         2 hrs 5 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.36 %
 ```
 
 <!--END_SECTION:waka-->
