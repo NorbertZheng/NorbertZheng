@@ -40,6 +40,3 @@ Text     0 secs          ░░░░░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-<!-- GitHub Activity Graph -->
-<div align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=NorbertZheng&theme=github" /></div>
